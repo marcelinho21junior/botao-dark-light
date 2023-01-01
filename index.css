@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100vh;
+    
+}
+
+.body{
+    background-color: rgb(222, 245, 76);
+}
+
+.dark{
+    background-color: #303030;
+    color: white;
+}
+
+.light{
+    background-color: aliceblue;
+    color: black;
+}
+
+button{
+    background-color: yellowgreen;
+    padding: 15px 40px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-size: 22px;
+}
